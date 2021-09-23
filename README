@@ -1,0 +1,12 @@
+# Email Verifier API
+
+Based on <a href="https://github.com/AfterShip/email-verifier">email-verifier</a> package
+
+
+## URL
+```
+https://email-verifier-api.vercel.app/api/index
+
+// Parameter list
+// email
+```
